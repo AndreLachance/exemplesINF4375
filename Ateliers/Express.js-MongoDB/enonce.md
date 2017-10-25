@@ -28,7 +28,7 @@ Exercices
    l'album à supprimer. Le service doit retourner 404 si l'id n'existe pas.
 
 6. Créer un service PUT à l'URL `/albums/:id`, où :id est l'ObjectId de l'album
-   à supprimer. Le service doit retourner 404 si l'id n'existe pas.
+   à modifier. Le service doit retourner 404 si l'id n'existe pas.
 
 Solutions
 ---------
